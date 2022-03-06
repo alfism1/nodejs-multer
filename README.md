@@ -26,7 +26,7 @@ $ npm start
 
 ### Author
 
-Brad Traversy
+Reference
 [Traversy Media](http://www.traversymedia.com)
 
 ### Version
